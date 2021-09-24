@@ -1,5 +1,8 @@
 /**
  * time complexity = O(n)
+ * 
+ * factorial of 5 = 5 * 4 * 3 * 2 * 1
+ * 
  * @param {number} num
  * @returns
  */
