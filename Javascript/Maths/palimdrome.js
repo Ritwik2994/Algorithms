@@ -8,4 +8,4 @@ function palindrome(str) {
   }
 }
 
-console.log(palindrome("abcdcba"));
+console.log(palindrome("madam"));
